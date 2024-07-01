@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="function code">
+    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="area function code">
+      <change afterPath="$PROJECT_DIR$/function/17_juneEx4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/function/17_juneEx2.py" beforeDir="false" afterPath="$PROJECT_DIR$/function/17_juneEx2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +21,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2if1Jsswo0M7rY01sVvUeJbG3m1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,13 +39,16 @@
   "keyToString": {
     "Python.17_june.executor": "Run",
     "Python.17_juneEx2.executor": "Run",
+    "Python.17_juneEx3.executor": "Run",
+    "Python.17_juneEx4.executor": "Run",
     "Python.functionLab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="functionLab1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17_juneEx3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonwithTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -55,7 +61,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function/functionLab1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\LENOVO\PycharmProjects\PythonwithTesting\function\17_juneEx3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.functionLab1" />
+        <item itemvalue="Python.17_juneEx3" />
       </list>
     </recent_temporary>
   </component>
@@ -102,11 +108,28 @@
       <option name="project" value="LOCAL" />
       <updated>1719870794935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="function code">
+      <option name="closed" value="true" />
+      <created>1719871199474</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719871199474</updated>
+    </task>
+    <task id="LOCAL-00004" summary="area function code">
+      <option name="closed" value="true" />
+      <created>1719871505748</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719871505748</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function code" />
-    <option name="LAST_COMMIT_MESSAGE" value="function code" />
+    <MESSAGE value="area function code" />
+    <option name="LAST_COMMIT_MESSAGE" value="area function code" />
   </component>
 </project>

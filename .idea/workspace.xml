@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="area function code">
-      <change afterPath="$PROJECT_DIR$/function/17_juneEx4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="*arguments">
+      <change afterPath="$PROJECT_DIR$/function/17_juneEx5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +40,7 @@
     "Python.17_juneEx2.executor": "Run",
     "Python.17_juneEx3.executor": "Run",
     "Python.17_juneEx4.executor": "Run",
+    "Python.17_juneEx5.executor": "Run",
     "Python.functionLab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -124,12 +124,48 @@
       <option name="project" value="LOCAL" />
       <updated>1719871505748</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="*arguments">
+      <option name="closed" value="true" />
+      <created>1719872685907</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719872685907</updated>
+    </task>
+    <task id="LOCAL-00006" summary="*arguments">
+      <option name="closed" value="true" />
+      <created>1719872845735</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719872845735</updated>
+    </task>
+    <task id="LOCAL-00007" summary="*arguments">
+      <option name="closed" value="true" />
+      <created>1719872903516</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719872903516</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="function code" />
     <MESSAGE value="area function code" />
-    <option name="LAST_COMMIT_MESSAGE" value="area function code" />
+    <MESSAGE value="*arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="*arguments" />
   </component>
 </project>

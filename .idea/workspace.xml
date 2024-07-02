@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="find factorial number">
-      <change afterPath="$PROJECT_DIR$/function/17_juneEx7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/function/17_juneEx8.py" afterDir="false" />
+    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="fibonacci series">
+      <change afterPath="$PROJECT_DIR$/function/19_juneEx9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +44,7 @@
     "Python.17_juneEx5.executor": "Run",
     "Python.17_juneEx6.executor": "Run",
     "Python.17_juneEx8.executor": "Run",
+    "Python.19_juneEx9.executor": "Run",
     "Python.functionLab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -168,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719895509127</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="fibonacci series">
+      <option name="closed" value="true" />
+      <created>1719897264198</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719897264198</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +196,7 @@
     <MESSAGE value="*arguments" />
     <MESSAGE value="leap year" />
     <MESSAGE value="find factorial number" />
-    <option name="LAST_COMMIT_MESSAGE" value="find factorial number" />
+    <MESSAGE value="fibonacci series" />
+    <option name="LAST_COMMIT_MESSAGE" value="fibonacci series" />
   </component>
 </project>

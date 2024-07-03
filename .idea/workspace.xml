@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="function scope with lambda">
-      <change afterPath="$PROJECT_DIR$/oops_concept/26_juneEx1.py" afterDir="false" />
+    <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="create class">
+      <change afterPath="$PROJECT_DIR$/oops_concept/26_julyEx2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/26_julyEx4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/26_juneEx3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,10 @@
     "Python.17_juneEx8.executor": "Run",
     "Python.19_juneEx10.executor": "Run",
     "Python.19_juneEx9.executor": "Run",
+    "Python.26_julyEx2.executor": "Run",
+    "Python.26_julyEx4.executor": "Run",
     "Python.26_juneEx1.executor": "Run",
+    "Python.26_juneEx3.executor": "Run",
     "Python.functionLab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -194,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719900815965</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="create class">
+      <option name="closed" value="true" />
+      <created>1719998380554</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1719998380554</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -217,7 +230,8 @@
     <MESSAGE value="fibonacci series" />
     <MESSAGE value="function scope" />
     <MESSAGE value="function scope with lambda" />
-    <option name="LAST_COMMIT_MESSAGE" value="function scope with lambda" />
+    <MESSAGE value="create class" />
+    <option name="LAST_COMMIT_MESSAGE" value="create class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

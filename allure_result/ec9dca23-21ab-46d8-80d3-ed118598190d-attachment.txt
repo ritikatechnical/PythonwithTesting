@@ -1,0 +1,8 @@
+Updating  created booking
+Create Booking Testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+<class 'requests.models.Response'>
+74ac55a77efcca4
+{'firstname': 'Charly', 'lastname': 'Brown', 'totalprice': 111, 'depositpaid': True, 'bookingdates': {'checkin': '2018-01-01', 'checkout': '2019-01-01'}, 'additionalneeds': 'Breakfast'}

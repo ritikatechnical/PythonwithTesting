@@ -1,0 +1,8 @@
+Deleting created booking
+Create Booking Testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+<class 'requests.models.Response'>
+8d97ea5350a19f7
+{'Content-Type': 'application/json', 'Cookie': 'token=8d97ea5350a19f7'}

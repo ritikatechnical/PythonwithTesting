@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd11f250-4f73-491f-84bd-73d8d520dc9f" name="Changes" comment="class with constructor">
+      <change afterPath="$PROJECT_DIR$/oops_concept/28_juneEx5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/28_juneEx6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/28_juneEx7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/28_juneEx8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oops_concept/28_juneEx9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oops_concept/28_juneEx9.py" beforeDir="false" afterPath="$PROJECT_DIR$/oops_concept/28_juneEx9.py" afterDir="false" />
     </list>
@@ -24,9 +29,9 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
-}</component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2if1Jsswo0M7rY01sVvUeJbG3m1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,25 +55,14 @@
     "Python.26_julyEx4.executor": "Run",
     "Python.26_juneEx1.executor": "Run",
     "Python.26_juneEx3.executor": "Run",
-    "Python.28_juneEx5.executor": "Run",
-    "Python.28_juneEx6.executor": "Run",
-    "Python.28_juneEx7.executor": "Run",
-    "Python.28_juneEx8.executor": "Run",
-    "Python.28_juneEx9.executor": "Run",
     "Python.functionLab1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LENOVO/PycharmProjects/PythonwithTesting/oops_concept",
-    "settings.editor.selected.configurable": "terminal"
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\LENOVO\PycharmProjects\PythonwithTesting\oops_concept" />
-    </key>
-  </component>
   <component name="RunManager">
-    <configuration name="17_juneEx3" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="17_juneEx3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonwithTesting" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -90,6 +84,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.17_juneEx3" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -211,15 +210,7 @@
       <option name="project" value="LOCAL" />
       <updated>1719998380554</updated>
     </task>
-    <task id="LOCAL-00014" summary="class with constructor">
-      <option name="closed" value="true" />
-      <created>1720001638407</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1720001638407</updated>
-    </task>
-    <option name="localTasksCounter" value="15" />
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -243,8 +234,7 @@
     <MESSAGE value="function scope" />
     <MESSAGE value="function scope with lambda" />
     <MESSAGE value="create class" />
-    <MESSAGE value="class with constructor" />
-    <option name="LAST_COMMIT_MESSAGE" value="class with constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="create class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

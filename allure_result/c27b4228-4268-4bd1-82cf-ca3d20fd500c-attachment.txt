@@ -1,0 +1,6 @@
+Updating  created booking
+Create Booking Testcase
+<class 'str'>
+<class 'dict'>
+<class 'dict'>
+<class 'requests.models.Response'>

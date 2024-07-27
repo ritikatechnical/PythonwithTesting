@@ -29,9 +29,9 @@
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2if1Jsswo0M7rY01sVvUeJbG3m1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,27 +40,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.17_june.executor": "Run",
-    "Python.17_juneEx2.executor": "Run",
-    "Python.17_juneEx3.executor": "Run",
-    "Python.17_juneEx4.executor": "Run",
-    "Python.17_juneEx5.executor": "Run",
-    "Python.17_juneEx6.executor": "Run",
-    "Python.17_juneEx8.executor": "Run",
-    "Python.19_juneEx10.executor": "Run",
-    "Python.19_juneEx9.executor": "Run",
-    "Python.26_julyEx2.executor": "Run",
-    "Python.26_julyEx4.executor": "Run",
-    "Python.26_juneEx1.executor": "Run",
-    "Python.26_juneEx3.executor": "Run",
-    "Python.functionLab1.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.17_june.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17_juneEx8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19_juneEx10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19_juneEx9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26_julyEx2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26_julyEx4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26_juneEx1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26_juneEx3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functionLab1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="17_juneEx3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonwithTesting" />

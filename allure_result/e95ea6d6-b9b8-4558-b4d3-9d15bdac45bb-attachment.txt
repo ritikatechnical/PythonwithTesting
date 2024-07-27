@@ -1,0 +1,2 @@
+{"firstname":"Sally","lastname":"Brown","totalprice":923,"depositpaid":false,"bookingdates":{"checkin":"2019-09-13","checkout":"2019-11-06"},"additionalneeds":"Breakfast"}
+{'firstname': 'Sally', 'lastname': 'Brown', 'totalprice': 923, 'depositpaid': False, 'bookingdates': {'checkin': '2019-09-13', 'checkout': '2019-11-06'}, 'additionalneeds': 'Breakfast'}

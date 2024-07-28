@@ -91,5 +91,3 @@ def test_create_booking_positive_tc1():
     assert checkout == "2019-01-01"
 
 
-# @allure.title("TC#2 - Create Booking with CRUD opration with Negative ")
-# @allure.description("TC#2 - Verify the create Booking!")
